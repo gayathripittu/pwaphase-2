@@ -1,0 +1,45 @@
+body{
+  background:  #85C1E9   ;
+
+}
+img{
+  width:200px;
+  height: 200px;
+  border:2px solid yellow ;
+  border-radius: 10%;
+
+}
+.parent{
+  display:flex;
+}
+.left{
+  width: 90%;
+  border: 2px solid white;
+  margin:2%;
+  padding: 3%;
+  text-align: center;
+  background: pink;
+  border-radius: 5%;
+}
+.right{
+  width: 90%;
+  border: 2px solid white;
+  margin:2%;
+  padding: 3%;
+  text-align: center;
+  background:pink ;
+  border-radius: 5%;
+}
+table{
+  border: 2px solid blue;
+  width: 100%;
+}
+table th,td{
+  border: 1px solid black;
+  border-collapse: collapse;
+
+}
+table tr:nth-child(even){
+  background: white;
+
+}

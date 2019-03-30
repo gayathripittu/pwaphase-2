@@ -1,0 +1,46 @@
+{
+  "profile":{
+    "image":"images/profilephoto1.webp",
+    "name":"gayathri",
+    "designation":"student",
+    "gmail":"gayathrip556@gmail.com",
+    "phno":"9398698327"
+  },
+  "career":{
+    "info":"to work creatively"
+  },
+  "education":
+  [
+    {
+    "Sno":"1",
+    "Institution":"MITS",
+    "Qualification":"B.Tech",
+    "percentage":"91.3",
+    "yearofpassing":"2021"
+  },
+  {
+    "Sno":"2",
+    "Institution":"NARAYANA",
+    "Qualification":"Intermediate",
+    "percentage":"97.7",
+    "yearofpassing":"2017"
+  },
+  {
+    "Sno":"3",
+    "Institution":"Adarsha",
+    "Qualification":"SSC",
+    "percentage":"98",
+    "yearofpassing":"2015"
+  }
+],
+"Skills":[
+  {
+  "Name":"WebTechnologies",
+  "info":["HTML","CSS","JS"]
+},
+{
+  "Name":"DataBase",
+  "info":["SQL","JDBC"]
+}
+]
+}
